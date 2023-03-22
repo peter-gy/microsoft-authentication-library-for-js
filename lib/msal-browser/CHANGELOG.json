@@ -2,6 +2,41 @@
   "name": "@azure/msal-browser",
   "entries": [
     {
+      "date": "Wed, 22 Mar 2023 20:45:34 GMT",
+      "tag": "@azure/msal-browser_v2.35.0",
+      "version": "2.35.0",
+      "comments": {
+        "patch": [
+          {
+            "author": "kshabelko@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "089c78094966d99c5e387bb512945430618e780e",
+            "comment": "Fix missing telemetry queue information #5809"
+          },
+          {
+            "author": "sameera.gajjarapu@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "112abff69ebb68d4c8a88e86af6d056cf650e492",
+            "comment": "Dup code removal in NativeInteractionClient (#5768)"
+          }
+        ],
+        "minor": [
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "c4432b9cc711cc037261c815410433346836c95d",
+            "comment": "Optimize account lookups in cache #5792"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-browser",
+            "comment": "Bump @azure/msal-common to v12.0.0",
+            "commit": "c4432b9cc711cc037261c815410433346836c95d"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 07 Mar 2023 16:48:51 GMT",
       "tag": "@azure/msal-browser_v2.34.0",
       "version": "2.34.0",

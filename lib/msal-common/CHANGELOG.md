@@ -1,8 +1,20 @@
 # Change Log - @azure/msal-common
 
-This log was last generated on Tue, 07 Mar 2023 16:48:51 GMT and should not be manually modified.
+This log was last generated on Wed, 22 Mar 2023 20:45:34 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 12.0.0
+
+Wed, 22 Mar 2023 20:45:34 GMT
+
+### Major changes
+
+- Optimize account lookups in cache #5792 (thomas.norling@microsoft.com)
+
+### Patches
+
+- Added tenant_region_scope and tenant_region_sub_scope to TokenClaims #5789 (lalimasharda@microsoft.com)
 
 ## 11.0.0
 

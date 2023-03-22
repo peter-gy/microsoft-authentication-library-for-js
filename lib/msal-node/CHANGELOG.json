@@ -2,6 +2,27 @@
   "name": "@azure/msal-node",
   "entries": [
     {
+      "date": "Wed, 22 Mar 2023 20:45:34 GMT",
+      "tag": "@azure/msal-node_v1.16.1",
+      "version": "1.16.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/msal-node",
+            "commit": "c4432b9cc711cc037261c815410433346836c95d",
+            "comment": "Optimize account lookups in cache #5792"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-node",
+            "comment": "Bump @azure/msal-common to v12.0.0",
+            "commit": "c4432b9cc711cc037261c815410433346836c95d"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 07 Mar 2023 16:48:52 GMT",
       "tag": "@azure/msal-node_v1.16.0",
       "version": "1.16.0",

@@ -2,6 +2,27 @@
   "name": "@azure/node-token-validation",
   "entries": [
     {
+      "date": "Wed, 22 Mar 2023 20:45:34 GMT",
+      "tag": "@azure/node-token-validation_v1.0.0-alpha.0",
+      "version": "1.0.0-alpha.0",
+      "comments": {
+        "none": [
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/node-token-validation",
+            "commit": "c4432b9cc711cc037261c815410433346836c95d",
+            "comment": "Add required getAccountKeys method"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/node-token-validation",
+            "comment": "Bump @azure/msal-common to v12.0.0",
+            "commit": "c4432b9cc711cc037261c815410433346836c95d"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 07 Mar 2023 16:48:52 GMT",
       "tag": "@azure/node-token-validation_v1.0.0-alpha.0",
       "version": "1.0.0-alpha.0",
